@@ -3,7 +3,7 @@ In addition，for easy use, we will publish our NSC codes in two type (Matlab an
 
 ----------------------------------------------------------------------------------------
 The demo is used for displaying NSCKL.
-# Title: "NSCKL: Normalized Spectral Clustering With Kernel-Based Learning for 
+Title: "NSCKL: Normalized Spectral Clustering With Kernel-Based Learning for 
 # Semisupervised Hyperspectral Image Classification"
 #
 # ----------------------------------------------------------------------------------------
