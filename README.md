@@ -1,6 +1,5 @@
-% All source codes will be published after the paper is accepted.
-% In addition，for easy use, we will publish our NSC codes in two type (Matlab and Python).
-
+All source codes will be published after the paper is accepted.
+In addition，for easy use, we will publish our NSC codes in two type (Matlab and Python).
 ----------------------------------------------------------------------------------------
 The demo is used for displaying NSCKL.
 Title: "NSCKL: Normalized Spectral Clustering With Kernel-Based Learning for 
