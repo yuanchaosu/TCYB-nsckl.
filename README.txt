@@ -7,8 +7,6 @@
 # Semisupervised Hyperspectral Image Classification"
 #
 # ----------------------------------------------------------------------------------------
-# This demo was made by Yuanchao Su.
-# It was checked and improved by Lianru Gao, Mengying Jiang, and Antonio Plaza.
 # Recommendation：Please use MATLAB 2020 or later version to run the demo.
 # RAM: 16GB
 #
