@@ -1,4 +1,5 @@
 # All source codes will be published after the paper is accepted.
+# The related paper has been submitted to the IEEE Trans.Cybern., in Nov. 2021.
 # In addition，for easy use, we will publish our NSC codes in two type (Matlab and Python).
 #
 # ----------------------------------------------------------------------------------------
@@ -16,7 +17,7 @@
 # The demo may not be commercialized without the permission of the developer.
 #
 # Authors: Yuanchao Su, Lianru Gao, Mengying Jiang, Antonio Plaza, Xu Sun and Bing Zhang
-# July.2021
+# Nov.2021
 #
 # ----------------------------------------------------------------------------------------
 # This demo contains four published hyperspectral data sets.
