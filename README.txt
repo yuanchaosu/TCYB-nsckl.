@@ -1,5 +1,5 @@
 # All source codes will be published after the paper is accepted.
-# The related paper has been submitted to the IEEE Trans.Cybern., in Nov. 2021.
+# The related paper has been submitted to the IEEE Transactions on Cybernetics, in Nov. 2021.
 # In addition，for easy use, we will publish our NSC codes in two type (Matlab and Python).
 #
 # ----------------------------------------------------------------------------------------
