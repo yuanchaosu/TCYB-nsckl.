@@ -1,4 +1,4 @@
-# The demo is used for running NSCKL.
+# The demo is used for implementing our NSCKL.
 #
 # We open the main code in the demo.
 #
