@@ -1,4 +1,4 @@
-# The demo is used for displaying NSCKL.
+# The demo is used for running NSCKL.
 #
 # We open the main code in the demo.
 #
