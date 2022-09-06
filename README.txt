@@ -14,7 +14,7 @@
 # ----------------------------------------------------------------------------------------
 # The purpose of this license is to make an operation manual, and the purpose of this demo
 # is to conduct academic communication. Copyright of the system development department. 
-# The demo may not be commercialized without the permission of the developer.
+# The demo may not be commercialized without the permission of the authors.
 #
 # Authors: Yuanchao Su, Lianru Gao, Mengying Jiang, Antonio Plaza, Xu Sun and Bing Zhang
 # Nov.2021
