@@ -41,4 +41,4 @@
 # 2) Training samples are given by Publishers
 # 1) NSCKL_classifi_Random.m (Random training samples, e.g., Indian Pines data, Salinas data, 
 # Pavia University data, and WHU-Hi datasets)
-# 2) NSCKL_classifi_Given.m (Given training samples, e.g., Houston University 2013 data).
+# 2) NSCKL_classifi_Given.m (Given training samples, e.g., Houston University data).
