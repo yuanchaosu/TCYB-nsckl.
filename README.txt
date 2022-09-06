@@ -1,11 +1,11 @@
-# All source codes will be published after the paper is accepted.
-# The related paper has been submitted to the IEEE Transactions on Cybernetics, in Nov. 2021.
-# In addition，for easy use, we will publish our NSC codes in two type (Matlab and Python).
-#
-# ----------------------------------------------------------------------------------------
 # The demo is used for displaying NSCKL.
-# Title: "NSCKL: Normalized Spectral Clustering With Kernel-Based Learning for 
-# Semisupervised Hyperspectral Image Classification"
+#
+# We open the main code in the demo.
+#
+# Although now some files are encapsulated, we provide their available interfaces.
+# Once our manuscript is accepted for publication, we will open all source codes in the GitHub project.
+#
+# The related paper has been submitted to the IEEE Transactions on Cybernetics, from Nov. 2021.
 #
 # ----------------------------------------------------------------------------------------
 # Recommendation：Please use MATLAB 2020 or later version to run the demo.
