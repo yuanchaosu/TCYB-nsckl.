@@ -1,8 +1,6 @@
-# The demo is used for implementing our NSCKL.
+# The codes of our NSCKL is provided in 'demo_nsckl_IEEE_TCYB.zip'. 
 #
-# The codes of the work is provided in 'demo_nsckl_IEEE_TCYB.zip'. 
-#
-# We open the main code in the demo.
+# We have open up the main code of the work in the demo.
 #
 # Although now some files are encapsulated, we provide their available interfaces.
 # Once our manuscript is accepted for publication, we will open all source codes in the GitHub project.
