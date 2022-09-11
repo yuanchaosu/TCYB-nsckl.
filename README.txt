@@ -1,6 +1,6 @@
 # The demo is used for implementing our NSCKL.
-#
-# We open the main code in the demo.
+# The codes of our NSCKL 
+# We open the main codes in the demo.
 #
 # Although now some files are encapsulated, we provide their available interfaces.
 # Once our manuscript is accepted for publication, we will open all source codes in the GitHub project.
