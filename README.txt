@@ -7,7 +7,6 @@
 #
 # The related paper has been submitted to the IEEE Transactions on Cybernetics, from Nov. 2021.
 #
-# ----------------------------------------------------------------------------------------
 # Recommendation：Please use MATLAB 2020 or later version to run the demo.
 # RAM: 16GB
 #
