@@ -1,10 +1,5 @@
 # The codes of our NSCKL is provided in 'demo_nsckl_IEEE_TCYB.zip'. 
 #
-# We have open up the main code of the work in the demo.
-#
-# Although now some files are encapsulated, we provide their available interfaces.
-# Once our manuscript is accepted for publication, we will open all source codes in the GitHub project.
-#
 # The related paper has been submitted to the IEEE Transactions on Cybernetics, from Nov. 2021.
 #
 # Recommendation：Please use MATLAB 2020 or later version to run the demo.
