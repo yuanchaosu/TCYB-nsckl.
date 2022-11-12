@@ -3,7 +3,7 @@
 #
 # The related paper has been submitted to the IEEE Transactions on Cybernetics, from Nov. 2021.
 # 
-# Received November 17 2021
+# Submitted November 17 2021.
 # Accepted October 27 2022.
 # DOI (identifier) 10.1109/TCYB.2022.3219855
 #
