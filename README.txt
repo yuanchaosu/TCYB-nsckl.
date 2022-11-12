@@ -17,7 +17,7 @@
 # The demo may not be commercialized without the permission of the authors.
 #
 # Authors: Yuanchao Su, Lianru Gao, Mengying Jiang, Antonio Plaza, Xu Sun and Bing Zhang
-# Nov.2021
+# October 2021
 #
 # -----------------------------------------------------------------------------------------------
 # This demo contains four published hyperspectral data sets.
