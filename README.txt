@@ -39,3 +39,15 @@
 # 2) NSCKL_classifi_Given.m (Given training samples, e.g., Houston University data).
 #
 # -----------------------------------------------------------------------------------------------
+
+@ARTICLE{9954181,
+  author={Su, Yuanchao and Gao, Lianru and Jiang, Mengying and Plaza, Antonio and Sun, Xu and Zhang, Bing},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={NSCKL: Normalized Spectral Clustering With Kernel-Based Learning for Semisupervised Hyperspectral Image Classification}, 
+  year={2023},
+  volume={53},
+  number={10},
+  pages={6649-6662},
+  keywords={Correlation;Kernel;Training;Manifolds;Hyperspectral imaging;Linear programming;Iterative methods;Graph structure learning;hyperspectral image (HSI) classification;semisupervised classification;spatial-spectral classification (SSC);spectral clustering (SC)},
+  doi={10.1109/TCYB.2022.3219855}}
+
